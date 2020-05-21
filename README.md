@@ -1,2 +1,2 @@
 # TrabDatacamp
-DataCamp projects
+DataCamp projects solutions and their jupyter notebooks
